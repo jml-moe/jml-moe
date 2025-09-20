@@ -18,10 +18,6 @@ I'm passionate about learning, technology, and solving real-world problems. Curr
 
 <br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jml-moe&theme=tokyonight&hide_border=true&background=0d1117&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=c9d1d9"/>
-
-<br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jml-moe&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=87CEEB&line=87CEEB&point=c9d1d9"/>
 
 </div>
