@@ -13,9 +13,18 @@ I'm passionate about learning, technology, and solving real-world problems. Curr
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jml-moe&theme=dracula&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jml-moe&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jml-moe&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jml-moe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=87CEEB&icon_color=87CEEB&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jml-moe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=87CEEB&text_color=c9d1d9"/>
+
+<br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jml-moe&theme=tokyonight&hide_border=true&background=0d1117&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=c9d1d9"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jml-moe&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=87CEEB&line=87CEEB&point=c9d1d9"/>
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
