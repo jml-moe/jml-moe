@@ -1,7 +1,8 @@
 # 💫 About Me
 Hi, I'm **Jamil**. <br>
-I'm a third-year Computer Science student based in Malang, Indonesia.
-Currently learning to build things that actually work — **Fullstack Apps**, **AI Integrations**, and everything in between. Actively seeking internship or project-based roles to apply these skills, contribute to impactful projects, and grow professionally. Let's connect!
+I'm a third-year Computer Science student based in Malang, Indonesia. <br>
+Currently learning to build things that actually work — **Fullstack Apps**, **AI Integrations**, and everything in between. <br>
+Actively seeking internship or project-based roles to apply these skills, contribute to impactful projects, and grow professionally. Let's connect!
 
 ---
 
@@ -35,8 +36,8 @@ Currently learning to build things that actually work — **Fullstack Apps**, **
 ### 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/jml-moe">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jml-moe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Jamil's Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jml-moe&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jml-moe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=percentile" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jml-moe&layout=compact&langs_count=8&theme=algolia&hide_progress=true" />
   </a>
 </p>
 
