@@ -34,12 +34,12 @@ Actively seeking internship or project-based roles to apply these skills, contri
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/jml-moe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jml-moe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=percentile" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jml-moe&layout=compact&langs_count=8&theme=algolia&hide_progress=true" />
   </a>
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jml-moe&theme=algolia" alt="Streak Stats"/>
